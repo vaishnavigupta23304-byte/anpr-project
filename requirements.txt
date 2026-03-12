@@ -1,6 +1,11 @@
-
-flask
-flask-cors
-opencv-python
-easyocr
-pillow
+flask==2.3.3
+flask-cors==4.0.0
+opencv-python-headless==4.8.1.78
+easyocr==1.7.1
+pillow==10.0.1
+torch==2.1.2
+torchvision==0.16.2
+numpy==1.26.4
+scipy==1.11.4
+scikit-image==0.22.0
+python-bidi==0.4.2
